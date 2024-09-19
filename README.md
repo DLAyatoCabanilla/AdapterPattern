@@ -28,3 +28,6 @@ In your solution you must provide the following in your Github link account:
   UML Class Diagram
   Uploaded java codes for the solution.
 Upload your GitHub Solution link here.
+
+![Smart Automaton System (1)](https://github.com/user-attachments/assets/ee68f3e7-98b1-4a22-a4f2-bb0ed88047af)
+
