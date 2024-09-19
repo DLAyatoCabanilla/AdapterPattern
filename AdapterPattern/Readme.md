@@ -27,3 +27,5 @@ Problem statement (description of the problem. Just copy what is stated here.
 UML Class Diagram
 Uploaded java codes for the solution.
 Upload your GitHub Solution link here.
+
+![Smart Automaton System (1)](https://github.com/user-attachments/assets/c2990fd1-580e-4319-b243-72fdbdec1d05)
